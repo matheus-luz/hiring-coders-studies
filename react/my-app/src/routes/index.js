@@ -10,6 +10,7 @@ function MainRoutes() {
       <Routes>
         <Route path="/" element={ <Home /> }/>
         <Route path="/repositories" element={ <Repositories /> } />
+        <Route path="/repositories" element={ <Repositories /> } />
       </Routes>
     </Router>
     
