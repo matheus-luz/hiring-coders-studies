@@ -9,7 +9,7 @@ function MainRoutes() {
     <Router>
       <Routes>
         <Route path="/" element={ <Home /> }/>
-        <Route path="/repositories" element={ <Repositories /> } />
+        <Route path="/Repositories" element={ <Repositories /> } />
       </Routes>
     </Router>
     
